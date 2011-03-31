@@ -48,7 +48,7 @@ int main ()
 		cout << "8 - Requisitar Livro\n";
 		cout << "9 - Devolver Livro\n";
 		
-		cout << "\n0 - Saire\n";
+		cout << "\n0 - Sair\n";
 		///end menu
 
 		if (firstRun)
