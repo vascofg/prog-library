@@ -1,0 +1,3 @@
+PROG
+====
+Library project (c++)
